@@ -1,0 +1,36 @@
+Commander
+A musical game to be played over networks, inspired by Cobra.
+
+Players react to a series of icons that are displayed on a website
+
+Groups
+A Player belongs to a group, even or odd
+
+Memories
+Each player will have 3 memories, that the will have to play back if instructed. If the memory displayed has not been stored
+the player should create a musical idea.
+
+The Icons
+
+001.    Store Memory 1
+002.    Store Memory 2
+003.    Store Memory 3
+004.    Play Memory 1
+005.    Play Memory 2
+006.    Play Memory 3
+007.    Drone low
+008.    Drone mid
+009.    Drone high
+010.    Drone complex
+011.    Even group fade out
+012.    Odd group fade out
+013.    Silence
+014.    Chaos
+015.    Glide low-to-high
+016.    Glide high-to-low
+017.    Short random
+018.    even group quiet
+019.    odd group quiet
+020.    whisper something
+021.    Soloist
+
